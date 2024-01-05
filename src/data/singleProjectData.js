@@ -144,7 +144,7 @@ export const singleProjectData = {
 			},
 			{
 				id: 2,
-				title: 'Web Application',
+				title: 'Aplicativo Web',
 				img: Image5,
 			},
 			{

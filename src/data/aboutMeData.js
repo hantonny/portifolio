@@ -1,10 +1,14 @@
 export const aboutMeData = [
 	{
 		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+		bio: 'Eu sou o Hantonny Korrea, um brasileiro de 28 anos apaixonado por programação. Há dois anos, mergulhei de cabeça no mundo do desenvolvimento como programador front-end e mobile, explorando as nuances emocionantes dessa área em constante evolução.',
 	},
 	{
 		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+		bio: 'Minha jornada acadêmica me levou ao Instituto Federal de Mato Grosso do Sul, onde me formei no curso de Sistemas para Internet, uma experiência que solidificou minha base e me preparou para os desafios do mundo profissional.',
+	},
+	{
+		id: 2,
+		bio: 'Durante esses anos, tenho me dedicado intensamente à criação de interfaces intuitivas e responsivas, buscando sempre aprimorar minhas habilidades e me manter atualizado com as últimas tendências tecnológicas. Estou animado para continuar crescendo profissionalmente, contribuindo para projetos inovadores e enfrentando novos desafios. Vamos construir algo incrível juntos!',
 	},
 ];
