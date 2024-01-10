@@ -31,7 +31,7 @@ const ContactDetails = () => {
               <i className="text-2xl text-gray-500 dark:text-gray-400 mr-4">
                 {contact.icon}
               </i>
-              <span className="text-lg mb-4 text-ternary-dark dark:text-ternary-light">
+              <span className="text-lg mb-10 text-ternary-dark dark:text-ternary-light">
                 {contact.name}
               </span>
             </li>
