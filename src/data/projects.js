@@ -28,30 +28,31 @@ export const projectsData = [
 	},
 	{
 		id: 3,
+		title: 'MoviesFlix',
+		category: 'Aplicativo Web',
+		img: WebImage1,
+		url: "https://filme-react-psi.vercel.app/"
+	},
+	{
+		id: 4,
 		title: 'GitHub Explorer',
 		category: 'Aplicativo Web',
 		img: UIImage1,
 		url: "https://githubexplorerhantonnykorrea.netlify.app/"
 	},
 	{
-		id: 4,
+		id: 5,
 		title: 'Recicla - Laravel',
 		category: 'Aplicativo Web',
 		img: UIImage2,
 		url: "https://www.linkedin.com/posts/hantonny-korrea-2853911a0_projeto-recicla-objetivo-auxiliar-o-consumidor-activity-6687181249867476992-8lk9/"
 	},
 	{
-		id: 5,
+		id: 6,
 		title: 'Seu Bolso',
 		category: 'Aplicativo Web',
 		img: MobileImage1,
 		url: "https://www.linkedin.com/posts/hantonny-korrea-2853911a0_projeto-seu-bolso-organizador-de-finan%C3%A7as-activity-6688972255034126336-EJO0/"
 	},
-	{
-		id: 6,
-		title: 'MovieFlix',
-		category: 'Aplicativo Web',
-		img: WebImage1,
-		url: "https://www.linkedin.com/posts/hantonny-korrea-2853911a0_movieflix-objetivo-ajudar-os-usu%C3%A1rios-a-activity-6705981582013939712-hDWf/"
-	},
+
 ];
