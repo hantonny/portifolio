@@ -24,14 +24,14 @@ export const projectsData = [
 		title: 'Cotação do Bitcoin',
 		category: 'Aplicativo Web',
 		img: MobileImage2,
-		url: "https://cripto-three-sage.vercel.app/"
+		url: "https://crypto-hantonny.vercel.app/"
 	},
 	{
 		id: 3,
 		title: 'MoviesFlix',
 		category: 'Aplicativo Web',
 		img: WebImage1,
-		url: "https://filme-react-psi.vercel.app/"
+		url: "https://filme-react-hantonny.vercel.app/"
 	},
 	{
 		id: 4,
