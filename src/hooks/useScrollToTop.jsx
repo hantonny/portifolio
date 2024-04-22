@@ -43,7 +43,7 @@ const useScrollToTop = () => {
           bottom: 50,
           display: showScroll ? "flex" : "none",
           padding: 5,
-          color: localStorage.theme === "light" ? "black" : "white",
+          color: localStorage.theme === "light" ? "white" : "white",
         }}
       />
     </>
